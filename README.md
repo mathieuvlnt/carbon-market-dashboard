@@ -37,6 +37,14 @@ Le projet comprend également un dashboard interactif permettant de visualiser :
 * la corrélation glissante EUA–TTF ;
 * plusieurs indicateurs de risque.
 
+### Aperçu du dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Corrélation dynamique EUA–TTF
+
+![Rolling Correlation](screenshots/rolling_correlation.png)
+
 ---
 
 ## Outils utilisés
@@ -97,6 +105,14 @@ The project also includes an interactive dashboard featuring:
 * correlation analysis;
 * rolling EUA–TTF correlations;
 * market risk indicators.
+
+### Dashboard Overview
+
+![Dashboard](screenshots/dashboard.png)
+
+### Dynamic EUA–TTF Correlation
+
+![Rolling Correlation](screenshots/rolling_correlation.png)
 
 ---
 
